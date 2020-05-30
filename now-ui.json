@@ -1,0 +1,16 @@
+{
+	"components": {
+		"devas-hello-world": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": [
+					"global.core"
+				],
+				"label": "Simple Hello World",
+				"icon": "calendar-clock-fill",
+				"description": "Simple Hello World."
+			}
+		}
+	},
+	"scopeName": "x_devas_tkj_hell_0"
+}
