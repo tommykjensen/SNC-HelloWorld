@@ -7,6 +7,7 @@ It should look like this:
 
 ![alt text](error.png)
 
+Have tested on a PDI Orlando patch1 and a non-prod instanse Oralando patch3 with the same result.
 
 When deployed to a ServiceNow instance and added as a sidepanel component it does not render and following error message is listed in the cosnole log:
 
